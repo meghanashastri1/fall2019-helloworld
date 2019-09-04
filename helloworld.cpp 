@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
-  string hi = "Hello World";
-  cout << hi << endl;
+  string hello = "Hello World";
+  cout << hello << endl;
+  return EXIT_SUCCESSFULY
 }
